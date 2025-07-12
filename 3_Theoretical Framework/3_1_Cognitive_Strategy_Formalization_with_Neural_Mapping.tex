@@ -1,0 +1,5 @@
+\subsection{Cognitive Strategy Formalization with Neural Mapping}
+
+4つの認知戦略を神経基盤に基づいて計算論的に定式化した。\textbf{Waiting戦略}では、右下前頭回の抑制制御機能を模倣し、\texttt{CognitiveLoad\_waiting(t) = α·BufferSize(t) + β·InhibitionCost(t)}として、バッファサイズと抑制コストの関数で表現する。この戦略では、背外側前頭前野（DLPFC）がワーキングメモリ管理を担い、動詞出現まで情報を保持する。
+
+\textbf{Anticipation戦略}は、内側前頭前野による高レベル物語スキーマ追跡と下前頭回の構造化シーケンス処理を基盤とし、\texttt{CognitiveLoad\_anticipation(t) = γ·PredictionCost(context) + δ·ConfidencePenalty + ε·HierarchicalProcessing}として定式化される。Elmer \& Kühnis (2016)が発見した聴覚皮質（BA 41/42）とブローカ野（BA 44/45）間のシータ帯域（4-7Hz）における強化された機能的結合が、この戦略の神経基盤となる。 
