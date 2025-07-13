@@ -1,0 +1,46 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage{luatexja-fontspec}
+\usepackage[utf8]{inputenc}
+\usepackage[japanese]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{cite}
+\usepackage{setspace}
+\usepackage[margin=2.5cm]{geometry}
+
+% 日本語フォント設定
+\setmainjfont{Hiragino Mincho ProN}
+
+\input{src/title}
+
+\begin{document}
+
+\maketitle
+
+\input{src/abst}
+
+\tableofcontents
+\newpage
+
+\input{src/1_introduction}
+
+\input{src/2_related_works}
+
+\input{src/3_Theoretical Framework}
+
+\input{src/4_Implementation}
+
+\input{src/5_Experimental Design}
+
+\input{src/6_Result}
+
+\input{src/7_Discussion}
+
+\input{src/8_Conclusion}
+
+\input{bib/biblio}
+
+\end{document}
