@@ -2,6 +2,31 @@
 
 My Research Note
 
+## 主題の先行研究
+
+言語学的
+順送り訳データに基づく英日同時機械翻訳の評価
+https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P1-11.pdf
+
+情報工学的
+同時通訳システムの現状と課題 
+https://www.jstage.jst.go.jp/article/its/12/0/12_1203/_pdf
+
+
+## データ
+Copusデータありそう。
+Mattia A. Di Gangi, Roldano Cattoni, Luisa Bentivogli,
+Matteo Negri, and Marco Turchi. MuST-C: a Multilingual
+Speech Translation Corpus. In Proc. of NAACL, pp.
+2012–2017, 2019.
+https://www.sciencedirect.com/science/article/abs/pii/S0885230820300887
+
+
+Danni Liu, Gerasimos Spanakis, and Jan Niehues. LowLatency Sequence-to-Sequence Speech Recognition and
+Translation by Partial Hypothesis Selection. In Proc. of
+Interspeech 2020, pp. 3620–3624, 2020.
+
+
 Calude : 
 
 Pexplexity
