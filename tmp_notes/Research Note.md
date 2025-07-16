@@ -4,13 +4,28 @@ My Research Note
 
 ## 主題の先行研究
 
-言語学的
-順送り訳データに基づく英日同時機械翻訳の評価
+語順を考慮した機械翻訳の評価
+- 順送り訳データに基づく英日同時機械翻訳の評価 ，語順差が大きい英語・日本語間んお同時機械翻訳の自動評価で語順を考慮することの必要性を示唆している.
 https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P1-11.pdf
 
-情報工学的
+
+- End to End の Speech to Speech Translation model の研究も進んでいる.
+https://research.google/blog/introducing-translatotron-an-end-to-end-speech-to-speech-translation-model/
+
+最近の
+
+
+神経科学分野
+
+実験手法が参考になるもの
+
+
 同時通訳システムの現状と課題 
 https://www.jstage.jst.go.jp/article/its/12/0/12_1203/_pdf
+
+
+
+The cognitive load of interpreters in the European Parliament.pdf
 
 
 ## データ
