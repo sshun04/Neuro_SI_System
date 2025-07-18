@@ -181,3 +181,51 @@ Getting started resources
 Where the field is heading
 
 Fairseq’s EMMA and FBK-SimulSeamless bridge research and production by streaming-finetuning huge multilingual models  ￼; ESPnet-ST-v2 plans to add automatic chunking and incremental VITS; and Meta hints at Seamless M4T-v3 with <1 s human-parity lag. Keep an eye on upcoming IWSLT Simul tracks and the Hugging Face leaderboard for fresh checkpoints.
+
+以下に、これまで説明に登場した 主要論文（PDF ダウンロードページ） と 関連ツール／モデルの公式リポジトリ をまとめました。クリックすると直接 PDF やコードにアクセスできます。
+
+⸻
+
+論文 PDF 一覧
+
+#	論文タイトル・年	PDF 直リンク
+1	STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency (2019)	https://aclanthology.org/P19-1289.pdf
+2	Monotonic Multi-Head Attention (2019)	https://arxiv.org/pdf/1909.12406.pdf
+3	Efficient Monotonic Multi-Head Attention (EMMA) (2023)	https://arxiv.org/pdf/2312.04515.pdf
+4	End-to-End Simultaneous Speech Translation with Differentiable Segmentation (DiSeg) (2023)	https://arxiv.org/pdf/2305.16093.pdf
+5	SeamlessM4T: Massively Multilingual & Multimodal MT (2023)	https://arxiv.org/pdf/2308.11596.pdf
+6	Seamless — Multilingual Expressive & Streaming Speech Translation (2023)	https://arxiv.org/pdf/2312.05187.pdf
+7	SimulTron: On-Device Simultaneous Speech-to-Speech Translation (2024)	https://arxiv.org/pdf/2406.02133.pdf
+8	SIMULEVAL: An Evaluation Toolkit for Simultaneous Translation (2020)	https://aclanthology.org/2020.emnlp-demos.19.pdf
+9	Recent Advances in End-to-End Simultaneous Speech Translation (2024)	https://www.ijcai.org/proceedings/2024/0900.pdf
+10	End-to-End Speech-to-Text Translation: A Survey (2023)	https://arxiv.org/pdf/2312.01053.pdf
+11	StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-Task Learning (2024)	https://arxiv.org/pdf/2406.03049.pdf
+12	NAIST Simultaneous Speech Translation System for IWSLT 2024	https://aclanthology.org/2024.iwslt-1.23.pdf
+13	CMU IWSLT 2024 Simultaneous Speech Translation System	https://aclanthology.org/2024.iwslt-1.20.pdf
+14	SimulSeamless: FBK at IWSLT 2024	https://arxiv.org/pdf/2406.14177.pdf
+15	CLASI: Towards Human-Parity E2E Simultaneous Interpretation via LLM Agent (2024)	https://arxiv.org/pdf/2407.21646.pdf
+
+
+⸻
+
+ツール／モデル公式ページ
+
+ツール／モデル	直リンク
+Fairseq-SimulST ドキュメント	https://github.com/facebookresearch/fairseq/blob/main/examples/speech_to_text/docs/simulst_mustc_example.md
+ESPnet (S2ST/S2T/TTS 等)	https://github.com/espnet/espnet
+Seamless M4T-v2 Large（Hugging Face モデルカード）	https://huggingface.co/facebook/seamless-m4t-v2-large
+
+
+⸻
+
+備考（簡潔な出典付きメモ）
+	•	STACL が提示した wait-k 方式が「固定遅延」の事実上のベースラインとなっています。 ￼
+	•	MMA と EMMA は可変遅延で品質-遅延トレードオフを改善します。 ￼ ￼
+	•	DiSeg はセグメンテーションを微分可能にし、翻訳モデルと同時学習します。 ￼
+	•	SeamlessM4T v2 と Seamless Streaming は 100 言語規模で S2ST/S2TT に対応し、平均ラグ約2 秒を実現します。 ￼ ￼
+	•	SimulTron は Pixel 7 Pro 上でリアルタイム S2ST をデモし、モバイル実装の可用性を示しました。 ￼
+	•	研究評価には SIMULEVAL と Average Lagging (AL) が広く採用されています。 ￼
+	•	最新レビュー（IJCAI 2024）で今後の課題として「低リソース言語対応」「音声スタイル保持」「人-AI協調 UI」が挙げられています。 ￼
+	•	各年の IWSLT Simultaneous Track 論文（NAIST／CMU／FBK）を見ると、SeamlessM4T をベースにした適応や Align-based Policy が主流です。 ￼ ￼ ￼
+	•	Fairseq-SimulST は wait-k／MMA／EMMA をすぐ試せる研究向け環境、ESPnet は Conformer+VITS でエンド-ツー-エンド S2ST を再現できます。 ￼ ￼
+	•	Hugging Face の SeamlessM4T-v2 カードには最小コード例とハードウェア要件が記載されています。 ￼
