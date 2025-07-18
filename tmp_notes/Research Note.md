@@ -28,6 +28,16 @@ https://www.jstage.jst.go.jp/article/its/12/0/12_1203/_pdf
 The cognitive load of interpreters in the European Parliament.pdf
 
 
+参考文献：
+	•	Alexis Hervais-Adelman et al. (2015). “fMRI of Simultaneous Interpretation Reveals the Neural Basis of Extreme Language Control.” Cerebral Cortex, 25(12), 4727-4739 ￼ ￼.
+	•	Alexis Hervais-Adelman et al. (2015). “Brain functional plasticity associated with the emergence of expertise in extreme language control.” NeuroImage, 114, 264-274 ￼ ￼.
+	•	Stefan Elmer et al. (2014). “Processing demands upon cognitive, linguistic, and articulatory functions promote grey matter plasticity in the adult multilingual brain: Insights from simultaneous interpreters.” Cortex, 54, 179-189 ￼ ￼.
+	•	Eowyn Van de Putte et al. (2018). “Anatomical and functional changes in the brain after simultaneous interpreting training: A longitudinal study.” Cortex, 99, 243-257 ￼ ￼.
+	•	Xiaohong Lin et al. (2018). “Which is more costly in Chinese to English simultaneous interpreting, ‘pairing’ or ‘transphrasing’? Evidence from an fNIRS neuroimaging study.” Neurophotonics, 5(2), 025010 ￼ ￼.
+	•	Haruko Yagura et al. (2021). “Selective Attention Measurement of Experienced Simultaneous Interpreters Using EEG Phase-Locked Response.” Frontiers in Human Neuroscience, 15:581525 ￼ ￼.
+	•	Carina Klein et al. (2018). “The interpreter’s brain during rest — Hyperconnectivity in the frontal lobe.” PLOS ONE, 13(8): e0202600 ￼.
+
+
 ## データ
 Copusデータありそう。
 Mattia A. Di Gangi, Roldano Cattoni, Luisa Bentivogli,

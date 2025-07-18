@@ -1,0 +1,22 @@
+\babel@toc {japanese}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Background and Related Work}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Cognitive Models of Simultaneous Interpretation}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Affect of Grammatical Structure on Cognitive Load during SI by professional interpreters}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Affect of Grammatical Structure on Peformance of machine interpretation systems}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Neural Correlates of Cognitive Load during Structural Asymmetry Processing}{5}{}%
+\contentsline {section}{\numberline {3}Theoretical Framework}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Cognitive Strategy Formalization with Neural Mapping}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Neural Resource to Computational Resource Mapping}{5}{}%
+\contentsline {section}{\numberline {4}Implementation}{6}{}%
+\contentsline {subsection}{\numberline {4.1}Neural-Inspired System Architecture}{6}{}%
+\contentsline {subsection}{\numberline {4.2}Neural Load Monitoring System}{6}{}%
+\contentsline {section}{\numberline {5}Experimental Design}{6}{}%
+\contentsline {section}{\numberline {6}Results}{6}{}%
+\contentsline {subsection}{\numberline {6.1}Neural-Inspired Cognitive Load Analysis}{6}{}%
+\contentsline {subsection}{\numberline {6.2}Neural Efficiency vs. AI Parameter Efficiency}{7}{}%
+\contentsline {subsection}{\numberline {6.3}Strategy-Specific Neural Correlations}{7}{}%
+\contentsline {section}{\numberline {7}Discussion}{7}{}%
+\contentsline {subsection}{\numberline {7.1}Neural Basis Validation of Cognitive Strategies}{7}{}%
+\contentsline {subsection}{\numberline {7.2}Limitations and Neurobiological Constraints}{7}{}%
+\contentsline {section}{\numberline {8}Conclusion}{7}{}%
