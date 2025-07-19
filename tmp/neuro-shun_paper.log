@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.7.23)  19 JUL 2025 19:13
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.7.23)  19 JUL 2025 21:46
  restricted system commands enabled.
 **neuro-shun_paper
 (./neuro-shun_paper.tex
@@ -920,16 +920,16 @@ LaTeX Font Info:    Trying loading font information for U+msb on input line 21.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./src/abst.tex)
+) (./src/abst.tex
 LaTeX Font Info:    Font shape `JT3/HiraginoMinchoProN(0)/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 25.
+(Font)              scaled to size 16.62714pt on input line 1.
 LaTeX Font Info:    Font shape `JY3/HiraginoMinchoProN(0)/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 25.
+(Font)              scaled to size 16.62714pt on input line 1.
 LaTeX Font Info:    Font shape `JT3/HiraginoMinchoProN(0)/b/n' will be
-(Font)              scaled to size 16.62714pt on input line 25.
+(Font)              scaled to size 16.62714pt on input line 1.
 LaTeX Font Info:    Font shape `JY3/HiraginoMinchoProN(0)/b/n' will be
-(Font)              scaled to size 16.62714pt on input line 25.
- (./neuro-shun_paper.toc
+(Font)              scaled to size 16.62714pt on input line 1.
+) (./neuro-shun_paper.toc
 LaTeX Font Info:    Font shape `JT3/HiraginoMinchoProN(0)/b/n' will be
 (Font)              scaled to size 11.54663pt on input line 2.
 LaTeX Font Info:    Font shape `JY3/HiraginoMinchoProN(0)/b/n' will be
@@ -946,73 +946,128 @@ LaTeX Font Info:    Font shape `JY3/HiraginoMinchoProN(0)/m/n' will be
 
 \openout3 = neuro-shun_paper.toc
  [3] (./src/1_introduction.tex [4])
-(./src/2_related_works.tex
-LaTeX Font Info:    Font shape `JT3/HiraginoMinchoProN(0)/b/n' will be
-(Font)              scaled to size 13.85594pt on input line 3.
-LaTeX Font Info:    Font shape `JY3/HiraginoMinchoProN(0)/b/n' will be
-(Font)              scaled to size 13.85594pt on input line 3.
- [5] [6] [7]
-Overfull \hbox (6.362pt too wide) in paragraph at lines 84--84
-[]\TU/lmr/bx/n/14.4 Neu-ral Cor-re-lates of Cog-ni-tive Load dur-ing Struc-tural
- Asym-
- []
+(./src/2_cognitive_interpretation.tex
 
-[8]
+LaTeX Warning: Citation `gile1995basic' on page 5 undefined on input line 5.
+
+[5]
+LaTeX Font Info:    Font shape `JT3/HiraginoMinchoProN(0)/b/n' will be
+(Font)              scaled to size 13.85594pt on input line 7.
+LaTeX Font Info:    Font shape `JY3/HiraginoMinchoProN(0)/b/n' will be
+(Font)              scaled to size 13.85594pt on input line 7.
+
+
+LaTeX Warning: Citation `gile1995basic' on page 6 undefined on input line 11.
+
+
+LaTeX Warning: Citation `christoffels2006cognitive' on page 6 undefined on inpu
+t line 11.
+
+
+LaTeX Warning: Citation `gile1995basic' on page 6 undefined on input line 19.
+
+
+LaTeX Warning: Citation `gile1995basic' on page 6 undefined on input line 24.
+
+
+LaTeX Warning: Citation `darò1994memory' on page 6 undefined on input line 29.
+
+
+
+LaTeX Warning: Citation `kurz2001conference' on page 6 undefined on input line 
+46.
+
+[6]
+
+LaTeX Warning: Citation `baddeley2000episodic' on page 7 undefined on input lin
+e 55.
+
+
+LaTeX Warning: Citation `christoffels2006cognitive' on page 7 undefined on inpu
+t line 59.
+
+
+LaTeX Warning: Citation `mizuno2005process' on page 7 undefined on input line 6
+3.
+
+
+LaTeX Warning: Citation `gile1995basic' on page 7 undefined on input line 76.
+
+
+LaTeX Warning: Citation `darò1994memory' on page 7 undefined on input line 84.
+
+
+[7]
+
+LaTeX Warning: Citation `christoffels2006cognitive' on page 8 undefined on inpu
+t line 97.
+
+) (./src/3_neuroscience_foundations.tex [8]
+
+LaTeX Warning: Citation `rinne2000left' on page 9 undefined on input line 26.
+
 
 LaTeX Warning: Citation `klein2018interpreter' on page 9 undefined on input lin
-e 121.
+e 50.
 
+! Misplaced alignment tab character &.
+l.63 Elmer &
+           Kühnis \cite{elmer2016functional} は, EEGを用いて同時通訳..
+.
+? 
 
 LaTeX Warning: Citation `elmer2016functional' on page 9 undefined on input line
- 133.
+ 63.
 
-[9
-Missing character: There is no ≥ (U+2265) in font HiraginoMinchoProN:mode=node
-;script=hani;language=dflt;-kern;jfm=ujis!
-]
-Overfull \hbox (6.5068pt too wide) in paragraph at lines 173--177
-\TU/lmr/m/n/12 la-tion; SimulST) |\JY3/HiraginoMinchoProN(0)/m/n/12 お |よ |
-び |同 |時 |音 |声 |間 |翻 |訳 \TU/lmr/m/n/12 (Si-mul-ta-ne-ous Speech-t
-o-Speech Trans-la-tion; S2ST)
+[9] [10] [11]
+! Misplaced alignment tab character &.
+l.150 前述したElmer &
+                        Kühnis \cite{elmer2016functional} の研究では, ...
+? 
+
+LaTeX Warning: Citation `elmer2016functional' on page 12 undefined on input lin
+e 150.
+
+) [12] (./src/4_machine_translation_models.tex
+
+LaTeX Warning: Citation `wang2024recent' on page 13 undefined on input line 17.
+
+
+
+LaTeX Warning: Citation `wang2024recent' on page 13 undefined on input line 18.
+
+
+
+Overfull \hbox (11.3181pt too wide) in paragraph at lines 30--33
+|\JY3/HiraginoMinchoProN(0)/m/n/12 立 |さ |れ |た\TU/lmr/m/n/12 . |\JY3/Hir
+aginoMinchoProN(0)/m/n/12 こ |の |手 |法 |は\TU/lmr/m/n/12 , k |\JY3/Hirag
+inoMinchoProN(0)/m/n/12 個 |の |原 |言 |語 |ト |ー |ク |ン |を |受 |
+信 |後 |に |出 |力 |を |開 |始 |し\TU/lmr/m/n/12 , |\JY3/HiraginoMinch
+oProN(0)/m/n/12 そ |の |後 \TU/lmr/m/n/12 READ/WRITE
  []
 
+[13]
 
-LaTeX Warning: Citation `wang2024recent' on page 10 undefined on input line 180
-.
+LaTeX Warning: Citation `gu2017learning' on page 14 undefined on input line 39.
 
-[10]
-Overfull \hbox (33.04802pt too wide) in paragraph at lines 237--240
-\TU/lmr/m/n/12 BLEU, Stream-ing Waited BLEU |\JY3/HiraginoMinchoProN(0)/m/n/12 
-が |複 |合 |的 |に |使 |用 |さ |れ |て |い |る\TU/lmr/m/n/12 . Simul
-E-val |\JY3/HiraginoMinchoProN(0)/m/n/12 ツ |ー |ル |が \TU/lmr/m/n/12 READ/
-WRITE
+
+[14] [15]
+Overfull \hbox (22.70204pt too wide) in paragraph at lines 112--115
+[]|\JY3/HiraginoMinchoProN(0)/m/n/12 品 |質\TU/lmr/m/n/12 -|\JY3/HiraginoMinc
+hoProN(0)/m/n/12 遅 |延 |ト |レ |ー |ド |オ |フ |の |観 |点 |で |
+は\TU/lmr/m/n/12 , Wait-k |\JY3/HiraginoMinchoProN(0)/m/n/12 が |予 |測 |
+可 |能 |な |遅 |延 |を |提 |供 |す |る |一 |方\TU/lmr/m/n/12 , MMA/E
+MMA
  []
 
+[16]) (./src/5_comparative_analysis.tex [17]
 
-Overfull \hbox (4.70204pt too wide) in paragraph at lines 243--244
-|\JY3/HiraginoMinchoProN(0)/m/n/12 品 |質\TU/lmr/m/n/12 -|\JY3/HiraginoMincho
-ProN(0)/m/n/12 遅 |延 |ト |レ |ー |ド |オ |フ |の |観 |点 |で |は\
-TU/lmr/m/n/12 , Wait-k |\JY3/HiraginoMinchoProN(0)/m/n/12 が |予 |測 |可 |
-能 |な |遅 |延 |を |提 |供 |す |る |一 |方\TU/lmr/m/n/12 , MMA/EMMA
- []
+LaTeX Warning: Citation `elmer2016functional' on page 18 undefined on input lin
+e 31.
 
-[11]
-Overfull \hbox (7.73804pt too wide) in paragraph at lines 251--253
-[]|\JY3/HiraginoMinchoProN(0)/m/n/12 ツ |ー |ル |環 |境 |の |成 |熟 |
-に |よ |り\TU/lmr/m/n/12 , |\JY3/HiraginoMinchoProN(0)/m/n/12 既 |製 |ツ 
-|ー |ル |キ |ッ |ト \TU/lmr/m/n/12 (Fairseq-SimulST, ESPnet-Simul) |\JY3/H
-iraginoMinchoProN(0)/m/n/12 と \TU/lmr/m/n/12 SimulE-
- []
-
-) (./src/3_theoretical_framework.tex [12] [13])
-(./src/4_comparative_analysis.tex [14]
-
-LaTeX Warning: Citation `elmer2016functional' on page 15 undefined on input lin
-e 36.
-
-[15] [16] [17]) (./src/5_implications_neuroscience.tex [18] [19] [20] [21])
-(./src/6_implications_ml.tex [22] [23] [24] [25]) (./src/7_Conclusion.tex
-[26] [27] [28]) (./bib/biblio.tex (./neuro-shun_paper.bbl
+[18] [19]) [20] (./src/6_implications_neuroscience.tex [21] [22] [23])
+(./src/7_implications_ml.tex [24] [25] [26]) (./src/8_Conclusion.tex [27])
+(./bib/biblio.tex (./neuro-shun_paper.bbl
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 5.
 (load cache: extra_lmroman12-italic.luc)
@@ -1036,9 +1091,9 @@ LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 56.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 63.
- [29]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 71.
+ [28]
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 82.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
@@ -1061,7 +1116,7 @@ LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 139.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
 (Font)              No change on input line 147.
- [30])) [31]
+)) [29] [30]
 (./neuro-shun_paper.aux)
 
 LaTeX Warning: There were undefined references.
@@ -1069,27 +1124,29 @@ LaTeX Warning: There were undefined references.
 )
 
 Here is how much of LuaTeX's memory you used:
- 9681 strings out of 477474
- 477799,662416 words of node,token memory allocated
- 42562 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 379 kern, 1 glyph, 9996 attribute, 3798 gl
-ue_spec, 511 attribute_list, 1 write, 105 user_defined nodes
-   avail lists: 1:46,2:130692,3:582,4:491,5:374,6:95,7:7878,8:1,9:3309,10:21,11:
-598
- 30144 multiletter control sequences out of 65536+600000
+ 9699 strings out of 477474
+ 477816,662416 words of node,token memory allocated
+ 41386 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 379 kern, 1 glyph, 9388 attribute, 3850 gl
+ue_spec, 475 attribute_list, 1 write, 68 user_defined nodes
+   avail lists: 1:39,2:124571,3:554,4:492,5:327,6:92,7:7421,8:2,9:3433,10:33,11:
+562
+ 30155 multiletter control sequences out of 65536+600000
  85 fonts using 76034055 bytes
  106i,6n,98p,8290b,324s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGot
 hic-Medium.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmro
-man12-italic.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lm
-roman12-bold.otf></System/Library/Fonts/ヒラギノ明朝 ProN.ttc></System/
+man12-italic.otf></System/Library/Fonts/ヒラギノ明朝 ProN.ttc></System/
 Library/Fonts/ヒラギノ明朝 ProN.ttc></usr/local/texlive/2022/texmf-dist
+/fonts/opentype/public/lm/lmroman12-bold.otf></usr/local/texlive/2022/texmf-dist
 /fonts/opentype/public/lm/lmroman12-regular.otf></System/Library/Fonts/ヒラ
-ギノ明朝 ProN.ttc></System/Library/Fonts/ヒラギノ明朝 ProN.ttc>
-Output written on neuro-shun_paper.pdf (31 pages, 578660 bytes).
+ギノ明朝 ProN.ttc></System/Library/Fonts/ヒラギノ明朝 ProN.ttc><
+/usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.ot
+f>
+Output written on neuro-shun_paper.pdf (30 pages, 572367 bytes).
 
-PDF statistics: 144 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
+PDF statistics: 147 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

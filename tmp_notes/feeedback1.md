@@ -21,10 +21,12 @@ src/4_comparative_analysis.tex, src/5_implications_neuroscience.tex, src/6_impli
 また引用元も明確にすること.
 
 ## Step4. src/2_related_works.tex src/3_theoretical_framework.tex の更新
-related_wroks と theoritical_frameworks という構成に分ける書き方は
+2つのセクション related_wroks と theoritical_frameworks を
+下記の３つのセクション
 - 認知科学観点からの同時通訳タスクの解釈
 - 脳科学的観点からの同時通訳に関わる神経基盤と脳の適応戦略
 - S2STの同時通訳を高精度に実現するモデルの研究
+に分割する
 という形で３つのSectionについての先行研究とその内容について、記述する。各Section先に記述した Introduction と整合性があるようにし、適宜 Introduction側も更新しても良い
 
 
