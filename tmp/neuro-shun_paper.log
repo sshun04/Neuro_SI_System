@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.7.23)  19 JUL 2025 21:46
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.7.23)  19 JUL 2025 22:05
  restricted system commands enabled.
 **neuro-shun_paper
 (./neuro-shun_paper.tex
@@ -1125,11 +1125,11 @@ LaTeX Warning: There were undefined references.
 
 Here is how much of LuaTeX's memory you used:
  9699 strings out of 477474
- 477816,662416 words of node,token memory allocated
- 41386 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 379 kern, 1 glyph, 9388 attribute, 3850 gl
+ 477813,662416 words of node,token memory allocated
+ 40981 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 379 kern, 1 glyph, 9388 attribute, 3769 gl
 ue_spec, 475 attribute_list, 1 write, 68 user_defined nodes
-   avail lists: 1:39,2:124571,3:554,4:492,5:327,6:92,7:7421,8:2,9:3433,10:33,11:
+   avail lists: 1:40,2:124570,3:559,4:486,5:327,6:92,7:7421,8:3,9:3433,10:33,11:
 562
  30155 multiletter control sequences out of 65536+600000
  85 fonts using 76034055 bytes
@@ -1143,7 +1143,7 @@ Library/Fonts/ヒラギノ明朝 ProN.ttc></usr/local/texlive/2022/texmf-dist
 ギノ明朝 ProN.ttc></System/Library/Fonts/ヒラギノ明朝 ProN.ttc><
 /usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.ot
 f>
-Output written on neuro-shun_paper.pdf (30 pages, 572367 bytes).
+Output written on neuro-shun_paper.pdf (30 pages, 570284 bytes).
 
 PDF statistics: 147 PDF objects out of 1000 (max. 8388607)
  93 compressed objects within 1 object stream
