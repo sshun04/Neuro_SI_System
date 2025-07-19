@@ -1,4 +1,16 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{gile1995regards}
+Daniel Gile.
+\newblock {\em Regards sur la recherche en interprétation de conférence}.
+\newblock Presses universitaires de Lille, Lille, 1995.
+
+\bibitem{gile1997conference}
+Daniel Gile.
+\newblock Conference interpreting as a cognitive management problem.
+\newblock In Joseph~H. Danks, Gregory~M. Shreve, Stephen~B. Fountain, and
+  Michael~K. McBeath, editors, {\em Cognitive processes in translation and
+  interpreting}, pages 196--214. SAGE Publications, Thousand Oaks, CA, 1997.
 
 \bibitem{hervais2015plasticity}
 Alexis Hervais-Adelman, Barbara Moser-Mercer, and Narly Golestani.
@@ -13,11 +25,68 @@ Alexis Hervais-Adelman, Barbara Moser-Mercer, Christoph~M. Michel, and Narly
   extreme language control.
 \newblock {\em Cerebral Cortex}, 25(12):4727--4739, 2015.
 
+\bibitem{ishizuka2024two}
+Hiroyuki Ishizuka.
+\newblock Two levels of information packaging and cognitive operations during
+  simultaneous interpreting: An analysis via additional demonstratives.
+\newblock {\em Ampersand}, 12:100165, 2024.
+
+\bibitem{kahneman1973attention}
+Daniel Kahneman.
+\newblock {\em Attention and effort}.
+\newblock Prentice-Hall, Englewood Cliffs, NJ, 1973.
+
 \bibitem{lin2018costly}
 Xiaohong Lin, Tingting Guo, Jia Wang, Guosheng Ding, and Junfeng Yang.
 \newblock Which is more costly in chinese to english simultaneous interpreting,
   "pairing" or "transphrasing"? evidence from an fnirs neuroimaging study.
 \newblock {\em Neurophotonics}, 5(2):025010, 2018.
+
+\bibitem{liu2024recent}
+Xiaoqian Liu, Guoqiang Hu, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong
+  Xiao, and Jingbo Zhu.
+\newblock Recent advances in end-to-end simultaneous speech translation.
+\newblock {\em arXiv preprint arXiv:2407.18858}, 2024.
+
+\bibitem{ma2024nast}
+Zhengrui Ma, Qingkai Fang, Shaolei Zhang, Shoutao Guo, Yang Feng, and Min
+  Zhang.
+\newblock A non-autoregressive generation framework for end-to-end simultaneous
+  speech-to-speech translation.
+\newblock In {\em Proceedings of the 62nd Annual Meeting of the Association for
+  Computational Linguistics}, pages 13295--13309. Association for Computational
+  Linguistics, 2024.
+
+\bibitem{papi2023attention}
+Sara Papi, Matteo Negri, and Marco Turchi.
+\newblock Attention as a guide for simultaneous speech translation.
+\newblock In {\em Proceedings of the 2023 Conference on Empirical Methods in
+  Natural Language Processing}, pages 13340--13353. Association for
+  Computational Linguistics, 2023.
+
+\bibitem{plevoets2018cognitive}
+Koen Plevoets and Bart Defrancq.
+\newblock The cognitive load of interpreters in the european parliament: A
+  corpus-based study of predictors for the disfluency uh(m).
+\newblock {\em Interpreting: International Journal of Research and Practice in
+  Interpreting}, 20(1):1--28, 2018.
+
+\bibitem{seamless2023m4t}
+{Seamless Communication}, Loïc Barrault, Yu-An Chung, Mariano~Coria Meglioli,
+  David Dale, Ning Dong, Paul-Ambroise Duquenne, Hady Elsahar, Hongyu Gong,
+  Kevin Heffernan, John Hoffman, Christopher Klaiber, Pengwei Li, Daniel Licht,
+  Jean Maillard, Alice Rakotoarison, Kaushik~Ram Sadagopan, Guillaume Wenzek,
+  Ethan Ye, et~al.
+\newblock Seamlessm4t: Massively multilingual \& multimodal machine
+  translation.
+\newblock {\em arXiv preprint arXiv:2308.11596}, 2023.
+
+\bibitem{seeber2011cognitive}
+Kilian~G. Seeber.
+\newblock Cognitive load in simultaneous interpreting: Existing theories -- new
+  models.
+\newblock {\em Interpreting: International Journal of Research and Practice in
+  Interpreting}, 13(2):176--204, 2011.
 
 \bibitem{seeber2013cognitive}
 Kilian~G. Seeber.
@@ -29,6 +98,47 @@ Kilian~G. Seeber.
 Kilian~G. Seeber and Dirk Kerzel.
 \newblock Cognitive load in simultaneous interpreting: Model meets data.
 \newblock {\em International Journal of Bilingualism}, 16(2):228--242, 2012.
+
+\bibitem{vandeputte2018anatomical}
+Eowyn Van~de Putte, Wouter De~Baene, Lorna García-Penton, Evy Woumans, Aster
+  Dijkgraaf, and Wouter Duyck.
+\newblock Anatomical and functional changes in the brain after simultaneous
+  interpreting training: A longitudinal study.
+\newblock {\em Cortex}, 99:243--257, 2018.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em Advances in Neural Information Processing Systems},
+  volume~30. Curran Associates, Inc., 2017.
+
+\bibitem{wickens1984processing}
+Christopher~D. Wickens.
+\newblock Processing resources in attention.
+\newblock In Raja Parasuraman and D.~Roy Davies, editors, {\em Varieties of
+  attention}, pages 63--102. Academic Press, Orlando, FL, 1984.
+
+\bibitem{wickens2002multiple}
+Christopher~D. Wickens.
+\newblock Multiple resources and performance prediction.
+\newblock {\em Theoretical Issues in Ergonomics Science}, 3(2):159--177, 2002.
+
+\bibitem{yagura2021selective}
+Haruko Yagura, Hiroki Tanaka, Taiki Kinoshita, Hiroki Watanabe, Shunnosuke
+  Motomura, Katsuhito Sudoh, and Satoshi Nakamura.
+\newblock Selective attention measurement of experienced simultaneous
+  interpreters using eeg phase-locked response.
+\newblock {\em Frontiers in Human Neuroscience}, 15:581525, 2021.
+
+\bibitem{zhang2024streamspeech}
+Shaolei Zhang, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, and Yang
+  Feng.
+\newblock Streamspeech: Simultaneous speech-to-speech translation with
+  multi-task learning.
+\newblock In {\em Proceedings of the 62nd Annual Meeting of the Association for
+  Computational Linguistics}, pages 8964--8980. Association for Computational
+  Linguistics, 2024.
 
 \bibitem{doi2024evaluation}
 土肥康輔, 胡尤佳, 蒔苗茉那, 須藤克仁, 中村哲, and
