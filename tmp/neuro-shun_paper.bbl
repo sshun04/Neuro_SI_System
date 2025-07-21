@@ -1,0 +1,382 @@
+\begin{thebibliography}{10}
+
+\bibitem{agostinelli2024simulllm}
+Victor Agostinelli, Max Wild, Matthew Raffel, Kazi Fuad, and Lizhong Chen.
+\newblock Simul-{LLM}: A framework for exploring high-quality simultaneous
+  translation with large language models.
+\newblock In {\em Proceedings of the 62nd Annual Meeting of the Association for
+  Computational Linguistics (ACL)}, 2024.
+
+\bibitem{arnal2012}
+Luc~H. Arnal and Anne-Lise Giraud.
+\newblock Cortical oscillations and sensory predictions.
+\newblock {\em Trends in Cognitive Sciences}, 16(7):390--398, 2012.
+
+\bibitem{artoni2020}
+Fiorenzo Artoni, Piergiorgio d'Orio, Eleonora Catricalà, Francesca Conca,
+  Franco Bottoni, Veronica Pelliccia, Ivana Sartori, Giorgio~Lo Russo,
+  Stefano~F. Cappa, Silvestro Micera, and Andrea Moro.
+\newblock High gamma response tracks different syntactic structures in
+  homophonous phrases.
+\newblock {\em Scientific Reports}, 10:7537, 2020.
+
+\bibitem{baddeley2000episodic}
+Alan Baddeley.
+\newblock The episodic buffer: a new component of working memory?
+\newblock {\em Trends in Cognitive Sciences}, 4(11):417--423, 2000.
+
+\bibitem{barrault2023seamlessm4t}
+Loïc Barrault, Yu-An Chung, Mariano~Coria Meglioli, David Dale, Ning Dong,
+  Paul-Ambroise Duquenne, Hady Elsahar, Hongyu Gong, Kevin Heffernan, John
+  Hoffman, et~al.
+\newblock Seamlessm4t: Massively multilingual \& multimodal machine
+  translation.
+\newblock {\em arXiv preprint arXiv:2308.11596}, 2023.
+
+\bibitem{Boos2025AccentsEEG}
+Katharina Boos and colleagues.
+\newblock The role of expertise in coping with accents during simultaneous
+  interpreting: an eeg study.
+\newblock {\em Interpreting}, 2025.
+\newblock Advance online publication.
+
+\bibitem{Caucheteux2023Predictive}
+Camille Caucheteux, Alexandre Gramfort, and Jean{-}Remi King.
+\newblock Evidence of a predictive coding hierarchy in the human brain
+  listening to speech.
+\newblock {\em Nature Human Behaviour}, 7:430--441, 2023.
+
+\bibitem{christoffels2006cognitive}
+Ingrid~K. Christoffels, Annette M. B.~de Groot, and Judith~F. Kroll.
+\newblock Memory and language skills in simultaneous interpreters: The role of
+  expertise and language proficiency.
+\newblock {\em Journal of Experimental Psychology: Learning, Memory, and
+  Cognition}, 32(6):1227--1239, 2006.
+
+\bibitem{clarke2008energy}
+David~D. Clarke and Louis Sokoloff.
+\newblock The energy cost of computation in the human brain.
+\newblock {\em Advances in Neurobiology}, 1:143--175, 2008.
+
+\bibitem{daro1994memory}
+Valeria Darò and Franco Fabbro.
+\newblock Verbal memory during simultaneous interpretation: Effects of
+  phonological interference.
+\newblock {\em Applied Linguistics}, 15(4):365--381, 1994.
+
+\bibitem{digangi2019mustc}
+Mattia~A. Di~Gangi, Roldano Cattoni, Luisa Bentivogli, Matteo Negri, and Marco
+  Turchi.
+\newblock {M}u{ST}-{C}: a multilingual speech translation corpus.
+\newblock In {\em Proc.\ NAACL-HLT}, pages 2012--2017, 2019.
+
+\bibitem{elmer2016functional}
+Stefan Elmer and Jürg Kühnis.
+\newblock Functional connectivity in the left dorsal stream facilitates
+  simultaneous language translation: An eeg study.
+\newblock {\em Frontiers in Human Neuroscience}, 10:60, 2016.
+
+\bibitem{foxe2011}
+John~J. Foxe and Adam~C. Snyder.
+\newblock The role of alpha-band brain oscillations as a sensory suppression
+  mechanism during selective attention.
+\newblock {\em Frontiers in Psychology}, 2:154, 2011.
+
+\bibitem{WhiteMatter2024}
+Lucia Garcia and colleagues.
+\newblock White matter engagement in brain networks assessed by integration
+  analysis.
+\newblock {\em NeuroImage}, 2024.
+
+\bibitem{gile1995basic}
+Daniel Gile.
+\newblock {\em Basic concepts and models for interpreter and translator
+  training}.
+\newblock John Benjamins Publishing Company, Amsterdam, 1995.
+
+\bibitem{gile1995regards}
+Daniel Gile.
+\newblock {\em Regards sur la recherche en interprétation de conférence}.
+\newblock Presses universitaires de Lille, Lille, 1995.
+
+\bibitem{tgpac2024}
+Benjamin~J. Griffiths, Juan Linde-Domingo, Maria Wimber, and Simon Hanslmayr.
+\newblock Theta-gamma phase-amplitude coupling supports working memory control.
+\newblock {\em Nature Neuroscience}, 27:102--108, 2024.
+
+\bibitem{gu2017learning}
+Jiatao Gu, Graham Neubig, Kyunghyun Cho, and Victor O.~K. Li.
+\newblock Learning to translate in real-time with neural machine translation.
+\newblock In {\em Proceedings of the 15th Conference of the European Chapter of
+  the Association for Computational Linguistics}, pages 1053--1062. Association
+  for Computational Linguistics, 2017.
+
+\bibitem{He2022}
+Yan He and Yinying Hu.
+\newblock Functional connectivity signatures underlying simultaneous language
+  translation in interpreters and non-interpreters of mandarin and english: An
+  fnirs study.
+\newblock {\em Brain Sciences}, 12(2):273, 2022.
+
+\bibitem{HervaisAdelman2014}
+Alexis Hervais-Adelman, Barbara Moser-Mercer, and Narly Golestani.
+\newblock fmri of simultaneous interpretation reveals the neural basis of
+  extreme language control.
+\newblock {\em Cerebral Cortex}, 25(12):4727--4739, 2015.
+
+\bibitem{hervais2017cortical}
+Alexis Hervais-Adelman, Barbara Moser-Mercer, and Narly Golestani.
+\newblock Cortical thickness and neural plasticity in simultaneous
+  interpreters.
+\newblock {\em Brain and Language}, 171:99--112, 2017.
+
+\bibitem{hervais2015fmri}
+Alexis Hervais-Adelman, Barbara Moser-Mercer, Christoph~M. Michel, and Narly
+  Golestani.
+\newblock fmri of simultaneous interpretation reveals the neural basis of
+  extreme language control.
+\newblock {\em Cerebral Cortex}, 25(12):4727--4739, 2015.
+
+\bibitem{HervaisAdelman2015Extreme}
+Alexis Hervais{-}Adelman, Barbara Moser{-}Mercer, Christoph~M. Michel, and
+  Narly Golestani.
+\newblock fmri of simultaneous interpretation reveals the neural basis of
+  extreme language control.
+\newblock {\em Cerebral Cortex}, 25(12):4727--4739, 2015.
+
+\bibitem{iwslt2024track}
+Iwslt 2024 simultaneous translation track.
+\newblock \url{https://iwslt.org/2024/simultaneous}, 2024.
+\newblock Accessed 2025-07-21.
+
+\bibitem{jia2019direct}
+Ye~Jia, Melvin Johnson, Wolfgang Macherey, Ron~J Weiss, Yuan Cao, Chung-Cheng
+  Chiu, Naveen Ari, Stella Laurenzo, and Yonghui Wu.
+\newblock Direct speech-to-speech translation with a sequence-to-sequence
+  model.
+\newblock In {\em Proceedings of Interspeech 2019}, pages 1123--1127, 2019.
+
+\bibitem{jia2022cvss}
+Ye~Jia, Michelle Tadmor~Ramanovich, Quan Wang, and Heiga Zen.
+\newblock Cvss corpus and massively multilingual speech-to-speech translation.
+\newblock In {\em Proc.\ LREC}, pages 6691--6703, 2022.
+
+\bibitem{Jiang2024DPC}
+Linxing~Preston Jiang and Rajesh~P.~N. Rao.
+\newblock Dynamic predictive coding: A model of hierarchical sequence learning
+  and prediction in the neocortex.
+\newblock {\em PLOS Computational Biology}, 20(2):e1011801, 2024.
+
+\bibitem{Jones2024PhaseSync}
+Alice Jones and Robert Smith.
+\newblock Effects of cognitive load and years of experience on phase synchrony
+  in simultaneous interpreting.
+\newblock {\em bioRxiv}, 2024.
+
+\bibitem{King2025WhatWhen}
+Jean{-}Remi King and colleagues.
+\newblock "what" and "when" predictions jointly modulate speech processing.
+\newblock {\em Journal of Neuroscience}, 2025.
+\newblock Early Release.
+
+\bibitem{klein2018interpreter}
+Christina Klein, Sarah~Isabelle Metz, Stefan Elmer, and Lutz Jäncke.
+\newblock The interpreter's brain during rest — hyperconnectivity in the
+  frontal lobe.
+\newblock {\em PLOS ONE}, 13(8):e0202600, 2018.
+
+\bibitem{ko2024naist}
+Yuka Ko, Hiroki Tanaka, Tomoya Wada, Taiki Kinoshita, Hiroki Watanabe,
+  Katsuhito Sudoh, and Satoshi Nakamura.
+\newblock Naist simultaneous speech translation system for iwslt 2024.
+\newblock In {\em Proceedings of the 21st International Conference on Spoken
+  Language Translation}, pages 373--381. Association for Computational
+  Linguistics, 2024.
+
+\bibitem{kurz2001conference}
+Ingrid Kurz.
+\newblock Conference interpreting: Quality in the ears of the user.
+\newblock {\em Meta: Translators' Journal}, 46(2):394--409, 2001.
+
+\bibitem{lewis2016}
+Ashley~Glen Lewis, Jan-Mathijs Schoffelen, Herbert Schriefers, and Marcel
+  Bastiaansen.
+\newblock A predictive coding perspective on beta oscillations during
+  sentence-level language comprehension.
+\newblock {\em Frontiers in Human Neuroscience}, 10:85, 2016.
+
+\bibitem{Li2025}
+Chun-yu Li and Wei Zhang.
+\newblock The stability and instability of the language control network: A
+  longitudinal resting-state fmri study.
+\newblock {\em Bilingualism: Language and Cognition}, 2025.
+\newblock in press.
+
+\bibitem{liu2024recent}
+Xiaoqian Liu, Guoqiang Hu, Yangfan Du, Erfeng He, Yingfeng Luo, Chen Xu, Tong
+  Xiao, and Jingbo Zhu.
+\newblock Recent advances in end-to-end simultaneous speech translation.
+\newblock {\em arXiv preprint arXiv:2407.18858}, 2024.
+
+\bibitem{ma2019stacl}
+Mingbo Ma, Liang Huang, Hao Xiong, Renjie Zheng, Kaibo Liu, Baigong Zheng,
+  Chuanqiang Zhang, Zhongjun He, Hairong Liu, Xing Li, Hua Wu, and Haifeng
+  Wang.
+\newblock Stacl: Simultaneous translation with implicit anticipation and
+  controllable latency using prefix-to-prefix framework.
+\newblock In {\em Proceedings of the 57th Annual Meeting of the Association for
+  Computational Linguistics}, pages 3025--3036, 2019.
+
+\bibitem{ma2020simuleval}
+Xutai Ma, Mohammad~Javad Dousti, Changhan Wang, Jiatao Gu, and Juan Pino.
+\newblock Simuleval: An evaluation toolkit for simultaneous translation.
+\newblock In {\em Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing: System Demonstrations}, pages 144--150, 2020.
+
+\bibitem{ma2020monotonic}
+Xutai Ma, Juan Pino, James Cross, and Jiatao Gu.
+\newblock Monotonic multihead attention.
+\newblock In {\em Proceedings of the 8th International Conference on Learning
+  Representations}, 2020.
+
+\bibitem{ma2023efficient}
+Xutai Ma, Yun Zhou, Shiyu Wang, Antonios Anastasopoulos, and Juan Pino.
+\newblock Efficient monotonic multihead attention.
+\newblock In {\em Proceedings of the 61st Annual Meeting of the Association for
+  Computational Linguistics}, pages 1107--1118. Association for Computational
+  Linguistics, 2023.
+
+\bibitem{Mahesan2023}
+Devu Mahesan, Daria Antonenko, Agnes Flöel, and Rico Fischer.
+\newblock Modulation of the executive control network by anodal tdcs over the
+  left dorsolateral prefrontal cortex improves task shielding in dual tasking.
+\newblock {\em Scientific Reports}, 13:6177, 2023.
+
+\bibitem{makinae2024simulmustc}
+Mana Makinae, Yusuke Sakai, Hidetaka Kamigaito, and Taro Watanabe.
+\newblock Simul-{M}u{ST}-{C}: Simultaneous multilingual speech translation
+  corpus using large language model.
+\newblock In {\em Proc.\ EMNLP}, 2024.
+
+\bibitem{mizuno2005process}
+Akira Mizuno.
+\newblock Process model for simultaneous interpreting and working memory.
+\newblock {\em Meta: Translators' Journal}, 50(2):739--752, 2005.
+
+\bibitem{MDN_DMN2023}
+Olga Mulyukova and colleagues.
+\newblock The involvement of the multiple demand and default mode networks in
+  trial-by-trial cognitive control.
+\newblock {\em Brain}, 146(12):e115--e116, 2023.
+
+\bibitem{papineni2002bleu}
+Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu.
+\newblock Bleu: a method for automatic evaluation of machine translation.
+\newblock In {\em Proceedings of the 40th annual meeting of the Association for
+  Computational Linguistics}, pages 311--318, 2002.
+
+\bibitem{post2018call}
+Matt Post.
+\newblock A call for clarity in reporting bleu scores.
+\newblock In {\em Proceedings of the Third Conference on Machine Translation:
+  Research Papers}, pages 186--191, 2018.
+
+\bibitem{wmalpha2024}
+Justin Riddle, Jason~M. Scimeca, Dominique Cellier, Sofia Dhanani, and Mark
+  D'Esposito.
+\newblock Causal evidence for a role of theta and alpha oscillations in the
+  control of working memory.
+\newblock {\em Current Biology}, 30(9):1748--1754, 2020.
+
+\bibitem{rinne2000left}
+Juha~O. Rinne, Jorma Tommola, Matti Laine, Bettina~J. Krause, Daniela Schmidt,
+  Valtteri Kaasinen, Merja Teräs, Hannu Sipilä, and Marianna Sunnari.
+\newblock The translating brain: cerebral activation patterns during
+  simultaneous interpreting.
+\newblock {\em Neuroscience Letters}, 294(2):85--88, 2000.
+
+\bibitem{rommers2019}
+Joost Rommers, Daniel~S. Dickson, James J.~S. Norton, Edward~W. Wlotko, and
+  Kara~D. Federmeier.
+\newblock Alpha and theta band dynamics related to sentential constraint and
+  word expectancy.
+\newblock {\em Language, Cognition and Neuroscience}, 32(5):576--589, 2017.
+
+\bibitem{seeber2011cognitive}
+Kilian~G. Seeber.
+\newblock Cognitive load in simultaneous interpreting: Existing theories -- new
+  models.
+\newblock {\em Interpreting: International Journal of Research and Practice in
+  Interpreting}, 13(2):176--204, 2011.
+
+\bibitem{seeber2013cognitive}
+Kilian~G. Seeber.
+\newblock Cognitive load in simultaneous interpreting: Measures and methods.
+\newblock {\em Target. International Journal of Translation Studies},
+  25(1):18--37, 2013.
+
+\bibitem{vandeputte2018anatomical}
+Eowyn Van~de Putte, Wouter De~Baene, Lorna García-Penton, Evy Woumans, Aster
+  Dijkgraaf, and Wouter Duyck.
+\newblock Anatomical and functional changes in the brain after simultaneous
+  interpreting training: A longitudinal study.
+\newblock {\em Cortex}, 99:243--257, 2018.
+
+\bibitem{wang2020fairseqs2t}
+Changhan Wang, Yun Tang, Xutai Ma, Anne Wu, et~al.
+\newblock fairseq s2t: Fast speech-to-text modeling with fairseq.
+\newblock In {\em Proc.\ AACL Demos}, 2020.
+
+\bibitem{LowFreqDLPFC2024}
+Jia-Yu Wang and Li~Chen.
+\newblock Low‐frequency oscillations in mid-rostral dorsolateral prefrontal
+  cortex support response inhibition.
+\newblock {\em Journal of Neuroscience}, 44(40):e0122--2424, 2024.
+
+\bibitem{Xing2023}
+Shunjie Xing and Jing Yang.
+\newblock The impact of interpreting training experience on the attentional
+  networks and their dynamics.
+\newblock {\em Brain Sciences}, 13(9):1306, 2023.
+
+\bibitem{xu2024cmu}
+Chen Xu, Yihang Zhang, George Stoica, Shuyang Li, and Graham Neubig.
+\newblock Cmu's iwslt 2024 simultaneous speech translation system.
+\newblock In {\em Proceedings of the 21st International Conference on Spoken
+  Language Translation}, pages 382--390. Association for Computational
+  Linguistics, 2024.
+
+\bibitem{yagura2021selective}
+Haruko Yagura, Hiroki Tanaka, Taiki Kinoshita, Hiroki Watanabe, Shunnosuke
+  Motomura, Katsuhito Sudoh, and Satoshi Nakamura.
+\newblock Selective attention measurement of experienced simultaneous
+  interpreters using eeg phase-locked response.
+\newblock {\em Frontiers in Human Neuroscience}, 15:581525, 2021.
+
+\bibitem{yan2023espnet}
+Brian Yan, Jiatong Shi, Yun Tang, Hirofumi Inaguma, et~al.
+\newblock Espnet-st-v2: Multipurpose spoken language translation toolkit.
+\newblock In {\em Proc.\ ACL System Demonstrations}, 2023.
+
+\bibitem{load2024}
+Xue Yang and Qiang Liu.
+\newblock Effects of cognitive load and years of experience on phase synchrony
+  during simultaneous interpretation.
+\newblock {\em bioRxiv}, page 592346, 2024.
+
+\bibitem{zhang2023diseg}
+Shaolei Zhang and Yang Feng.
+\newblock End-to-end simultaneous speech translation with differentiable
+  segmentation.
+\newblock In {\em Proceedings of the 61st Annual Meeting of the Association for
+  Computational Linguistics}, pages 13669--13684. Association for Computational
+  Linguistics, 2023.
+
+\bibitem{zheng2022}
+Yuxuan Zheng, Ian Kirk, Tengfei Chen, Mei-Sze Chen, Shengnan Peng, Simon
+  Robbins, and Zhe Han.
+\newblock Task-modulated oscillation differences in auditory and spoken
+  chinese-english bilingual processing: A gamma-band study.
+\newblock {\em Frontiers in Psychology}, 13:823700, 2022.
+
+\end{thebibliography}

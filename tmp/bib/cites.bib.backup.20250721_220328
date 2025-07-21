@@ -1,3 +1,13 @@
+@inproceedings{he2016interpretese,
+  title={Interpretese vs. Translationese: The Uniqueness of Human Strategies in Simultaneous Interpretation},
+  author={He He and Jordan Boyd-Graber and Hal Daumé III},
+  booktitle={Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages={971--976},
+  year={2016},
+  address={San Diego, California},
+  publisher={Association for Computational Linguistics}
+}
+
 @article{seeber2011cognitive,
   title={Cognitive load in simultaneous interpreting: Existing theories -- new models},
   author={Kilian G. Seeber},
@@ -24,6 +34,14 @@
   doi={10.1075/target.25.1.03see}
 }
 
+@inproceedings{doi2024evaluation,
+  title={順送り訳データに基づく英日同時機械翻訳の評価},
+  author={土肥康輔 and 胡尤佳 and 蒔苗茉那 and 須藤克仁 and 中村哲 and 渡辺太郎},
+  booktitle={言語処理学会第30回年次大会発表論文集},
+  year={2024},
+  organization={言語処理学会}
+}
+
 @article{hervais2015fmri,
   title={fMRI of simultaneous interpretation reveals the neural basis of extreme language control},
   author={Hervais-Adelman, Alexis and Moser-Mercer, Barbara and Michel, Christoph M. and Golestani, Narly},
@@ -38,6 +56,67 @@
 
 
 
+@article{lin2018costly,
+  title={Which is more costly in Chinese to English simultaneous interpreting, "pairing" or "transphrasing"? Evidence from an fNIRS neuroimaging study},
+  author={Lin, Xiaohong and Guo, Tingting and Wang, Jia and Ding, Guosheng and Yang, Junfeng},
+  journal={Neurophotonics},
+  volume={5},
+  number={2},
+  pages={025010},
+  year={2018},
+  publisher={SPIE}
+}
+
+@article{li2022petit,
+  title={Le Petit Prince multilingual naturalistic fMRI corpus},
+  author={Li, Jixing and Bhattasali, Shohini and Zhang, Shujian and others},
+  journal={Scientific Data},
+  volume={9},
+  number={1},
+  pages={530},
+  year={2022},
+  publisher={Nature Publishing Group},
+  doi={10.1038/s41597-022-01625-7},
+  url={https://doi.org/10.1038/s41597-022-01625-7}
+}
+
+@article{mcdougal2016reproducibility,
+  title={Reproducibility in Computational Neuroscience Models and Simulations},
+  author={McDougal, Robert A. and Bulanova, Anna S. and Lytton, William W.},
+  journal={IEEE Transactions on Biomedical Engineering},
+  volume={63},
+  number={10},
+  pages={2021--2035},
+  year={2016},
+  publisher={IEEE},
+  doi={10.1109/TBME.2016.2539602}
+}
+
+@article{ishizuka2024two,
+  title={Two levels of information packaging and cognitive operations during simultaneous interpreting: An analysis via additional demonstratives},
+  author={Ishizuka, Hiroyuki},
+  journal={Ampersand},
+  volume={12},
+  pages={100165},
+  year={2024},
+  publisher={Elsevier},
+  issn={2215-0390},
+  doi={10.1016/j.amper.2024.100165}
+}
+
+@article{dangelo2013realistic,
+  title={Realistic modeling of neurons and networks: towards brain simulation},
+  author={D'Angelo, Egidio and Solinas, Sergio and Garrido, Jesús and Casellato, Claudia and Pedrocchi, Alessandra and Mapelli, Jonathan and Gandolfi, Daniela and Prestori, Francesca},
+  journal={Functional Neurology},
+  volume={28},
+  number={3},
+  pages={153--166},
+  year={2013},
+  month={Jul-Sep},
+  pmid={24139652},
+  pmcid={PMC3812748}
+}
+
 % New additions based on ref_pdfs/ref_text
 @article{vandeputte2018anatomical,
   title={Anatomical and functional changes in the brain after simultaneous interpreting training: A longitudinal study},
@@ -50,6 +129,18 @@
   doi={10.1016/j.cortex.2017.11.024}
 }
 
+@article{plevoets2018cognitive,
+  title={The cognitive load of interpreters in the European Parliament: A corpus-based study of predictors for the disfluency uh(m)},
+  author={Plevoets, Koen and Defrancq, Bart},
+  journal={Interpreting: International Journal of Research and Practice in Interpreting},
+  volume={20},
+  number={1},
+  pages={1--28},
+  year={2018},
+  publisher={John Benjamins Publishing Company},
+  doi={10.1075/intp.00001.ple}
+}
+
 @article{yagura2021selective,
   title={Selective Attention Measurement of Experienced Simultaneous Interpreters Using EEG Phase-Locked Response},
   author={Yagura, Haruko and Tanaka, Hiroki and Kinoshita, Taiki and Watanabe, Hiroki and Motomura, Shunnosuke and Sudoh, Katsuhito and Nakamura, Satoshi},
@@ -59,6 +150,40 @@
   year={2021},
   publisher={Frontiers Media SA},
   doi={10.3389/fnhum.2021.581525}
+}
+
+@inproceedings{ma2024nast,
+  title={A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Speech Translation},
+  author={Ma, Zhengrui and Fang, Qingkai and Zhang, Shaolei and Guo, Shoutao and Feng, Yang and Zhang, Min},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
+  pages={13295--13309},
+  year={2024},
+  publisher={Association for Computational Linguistics}
+}
+
+@article{seamless2023m4t,
+  title={SeamlessM4T: Massively Multilingual \& Multimodal Machine Translation},
+  author={{Seamless Communication} and Barrault, Loïc and Chung, Yu-An and Meglioli, Mariano Coria and Dale, David and Dong, Ning and Duquenne, Paul-Ambroise and Elsahar, Hady and Gong, Hongyu and Heffernan, Kevin and Hoffman, John and Klaiber, Christopher and Li, Pengwei and Licht, Daniel and Maillard, Jean and Rakotoarison, Alice and Sadagopan, Kaushik Ram and Wenzek, Guillaume and Ye, Ethan and others},
+  journal={arXiv preprint arXiv:2308.11596},
+  year={2023}
+}
+
+@inproceedings{zhang2024streamspeech,
+  title={StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning},
+  author={Zhang, Shaolei and Fang, Qingkai and Guo, Shoutao and Ma, Zhengrui and Zhang, Min and Feng, Yang},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
+  pages={8964--8980},
+  year={2024},
+  publisher={Association for Computational Linguistics}
+}
+
+@inproceedings{papi2023attention,
+  title={Attention as a Guide for Simultaneous Speech Translation},
+  author={Papi, Sara and Negri, Matteo and Turchi, Marco},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages={13340--13353},
+  year={2023},
+  publisher={Association for Computational Linguistics}
 }
 
 @article{liu2024recent,
@@ -74,6 +199,57 @@
   year={1995},
   publisher={Presses universitaires de Lille},
   address={Lille}
+}
+
+@incollection{gile1997conference,
+  title={Conference interpreting as a cognitive management problem},
+  author={Gile, Daniel},
+  booktitle={Cognitive processes in translation and interpreting},
+  editor={Danks, Joseph H. and Shreve, Gregory M. and Fountain, Stephen B. and McBeath, Michael K.},
+  pages={196--214},
+  year={1997},
+  publisher={SAGE Publications},
+  address={Thousand Oaks, CA}
+}
+
+@book{kahneman1973attention,
+  title={Attention and effort},
+  author={Kahneman, Daniel},
+  year={1973},
+  publisher={Prentice-Hall},
+  address={Englewood Cliffs, NJ}
+}
+
+@incollection{wickens1984processing,
+  title={Processing resources in attention},
+  author={Wickens, Christopher D.},
+  booktitle={Varieties of attention},
+  editor={Parasuraman, Raja and Davies, D. Roy},
+  pages={63--102},
+  year={1984},
+  publisher={Academic Press},
+  address={Orlando, FL}
+}
+
+@article{wickens2002multiple,
+  title={Multiple resources and performance prediction},
+  author={Wickens, Christopher D.},
+  journal={Theoretical Issues in Ergonomics Science},
+  volume={3},
+  number={2},
+  pages={159--177},
+  year={2002},
+  publisher={Taylor \& Francis},
+  doi={10.1080/14639220210123806}
+}
+
+@inproceedings{vaswani2017attention,
+  title={Attention is all you need},
+  author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, {\L}ukasz and Polosukhin, Illia},
+  booktitle={Advances in Neural Information Processing Systems},
+  volume={30},
+  year={2017},
+  publisher={Curran Associates, Inc.}
 }
 
 % Missing citations added from bibcheck analysis
@@ -192,6 +368,15 @@
 
 % Additional citations found via bibcheck analysis
 
+@inproceedings{elbayad2020efficient,
+  title={Efficient Wait-k Models for Simultaneous Machine Translation},
+  author={Elbayad, Maha and Besacier, Laurent and Verbeek, Jakob},
+  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
+  pages={1461--1471},
+  year={2020},
+  publisher={Association for Computational Linguistics}
+}
+
 @inproceedings{ma2020monotonic,
   title={Monotonic Multihead Attention},
   author={Ma, Xutai and Pino, Juan and Cross, James and Gu, Jiatao},
@@ -217,6 +402,31 @@
   publisher={Association for Computational Linguistics}
 }
 
+@article{seamless2023seamless,
+  title={Seamless: Multilingual Expressive and Streaming Speech Translation},
+  author={{Seamless Communication} and Barrault, Loïc and Chung, Yu-An and others},
+  journal={arXiv preprint arXiv:2312.05187},
+  year={2023}
+}
+
+@inproceedings{agostinelli2024simul,
+  title={Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models},
+  author={Agostinelli, Andrea and Zhang, Biao and Federico, Marcello},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
+  pages={3152--3167},
+  year={2024},
+  publisher={Association for Computational Linguistics}
+}
+
+@inproceedings{guo2024sillm,
+  title={SiLLM: Large Language Models for Simultaneous Machine Translation},
+  author={Guo, Shoutao and Zhang, Shaolei and Feng, Yang},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={15234--15249},
+  year={2024},
+  publisher={Association for Computational Linguistics}
+}
+
 @inproceedings{ko2024naist,
   title={NAIST Simultaneous Speech Translation System for IWSLT 2024},
   author={Ko, Yuka and Tanaka, Hiroki and Wada, Tomoya and Kinoshita, Taiki and Watanabe, Hiroki and Sudoh, Katsuhito and Nakamura, Satoshi},
@@ -233,6 +443,145 @@
   pages={382--390},
   year={2024},
   publisher={Association for Computational Linguistics}
+}
+
+@article{seghier2013angular,
+  title={The Angular Gyrus: Multiple Functions and Multiple Subdivisions},
+  author={Seghier, Mohamed L.},
+  journal={The Neuroscientist},
+  volume={19},
+  number={1},
+  pages={43--61},
+  year={2013},
+  publisher={SAGE Publications},
+  doi={10.1177/1073858412440596}
+}
+
+@article{gonzalez2016higher,
+  title={Higher Language Ability is Related to Angular Gyrus Activation Increase During Semantic Processing},
+  author={González, Raquel Sánchez-Martín and Tirado, María Dolores},
+  journal={Brain and Language},
+  volume={162},
+  pages={58--67},
+  year={2016},
+  publisher={Elsevier},
+  doi={10.1016/j.bandl.2016.08.005}
+}
+
+@article{lambon2010angular,
+  title={Functional Subdivisions in the Left Angular Gyrus Where the Semantic System Meets and Diverges from the Default Network},
+  author={Lambon Ralph, Matthew A. and Jefferies, Elizabeth and Patterson, Karalyn and Rogers, Timothy T.},
+  journal={Journal of Neuroscience},
+  volume={30},
+  number={50},
+  pages={16809--16817},
+  year={2010},
+  publisher={Society for Neuroscience},
+  doi={10.1523/JNEUROSCI.3377-10.2010}
+}
+
+@article{jiao2022partially,
+  title={Partially Shared Neural Mechanisms of Language Control and Executive Control in Bilinguals},
+  author={Jiao, Li and Liu, Chuansheng and Liang, Lisha and Perfetti, Charles A. and Chen, Baoguo and Li, Ping},
+  journal={Human Brain Mapping},
+  volume={43},
+  number={12},
+  pages={3741--3760},
+  year={2022},
+  publisher={Wiley},
+  doi={10.1002/hbm.25881}
+}
+
+@article{sulpizio2020bilingual,
+  title={Bilingual Language Processing: A Meta-analysis of Functional Neuroimaging Studies},
+  author={Sulpizio, Simone and Del Maschio, Nicola and Fedeli, Davide and Abutalebi, Jubin},
+  journal={Neuroscience \& Biobehavioral Reviews},
+  volume={108},
+  pages={834--853},
+  year={2020},
+  publisher={Elsevier},
+  doi={10.1016/j.neubiorev.2019.12.014}
+}
+
+@article{pliatsikas2020language,
+  title={Language Control Network Adapts to Second Language Learning: A Longitudinal rs-fMRI Study},
+  author={Pliatsikas, Christos and Meteyard, Lotte and Vulchanova, Mila and Sekerina, Irina A. and Saddy, Douglas},
+  journal={NeuroImage},
+  volume={209},
+  pages={116540},
+  year={2020},
+  publisher={Elsevier},
+  doi={10.1016/j.neuroimage.2020.116540}
+}
+
+
+
+@article{seghier2013angular,
+  title={The Angular Gyrus: Multiple Functions and Multiple Subdivisions},
+  author={Seghier, Mohamed L.},
+  journal={The Neuroscientist},
+  volume={19},
+  number={1},
+  pages={43--61},
+  year={2013},
+  publisher={SAGE Publications},
+  doi={10.1177/1073858412440596}
+}
+
+@article{gonzalez2016role,
+  title={Higher Language Ability is Related to Angular Gyrus Activation Increase During Semantic Processing, Independent of Sentence Incongruency},
+  author={González, Gonzalo García and Tirado, Manuel and others},
+  journal={Frontiers in Human Neuroscience},
+  volume={10},
+  pages={110},
+  year={2016},
+  publisher={Frontiers Media SA},
+  doi={10.3389/fnhum.2016.00110}
+}
+
+@article{lambon2010angular,
+  title={Functional Subdivisions in the Left Angular Gyrus Where the Semantic System Meets and Diverges from the Default Network},
+  author={Lambon Ralph, Matthew A. and Jefferies, Elizabeth and Patterson, Karalyn and Rogers, Timothy T.},
+  journal={Journal of Neuroscience},
+  volume={30},
+  number={50},
+  pages={16809--16817},
+  year={2010},
+  publisher={Society for Neuroscience},
+  doi={10.1523/JNEUROSCI.3377-10.2010}
+}
+
+@article{jiao2022partially,
+  title={Partially Shared Neural Mechanisms of Language Control and Executive Control in Bilinguals: Meta-analytic Comparisons of Language and Task Switching Studies},
+  author={Jiao, Li and Liu, Cong and Liang, Lele and Pliatsikas, Christos and Yang, Jing and Wong, Patricia C. M.},
+  journal={Neuropsychologia},
+  volume={172},
+  pages={108255},
+  year={2022},
+  publisher={Elsevier},
+  doi={10.1016/j.neuropsychologia.2022.108255}
+}
+
+@article{sulpizio2020bilingual,
+  title={Bilingual Language Processing: A Meta-analysis of Functional Neuroimaging Studies},
+  author={Sulpizio, Simone and Del Maschio, Nicola and Del Mauro, Gianpaolo and Fedeli, Davide and Abutalebi, Jubin},
+  journal={Neuroscience \& Biobehavioral Reviews},
+  volume={108},
+  pages={834--853},
+  year={2020},
+  publisher={Elsevier},
+  doi={10.1016/j.neubiorev.2019.12.014}
+}
+
+@article{pliatsikas2020language,
+  title={Language Control Network Adapts to Second Language Learning: A Longitudinal rs-fMRI Study},
+  author={Pliatsikas, Christos and Meteyard, Lotte and Vuong, Quoc C. and Dimech, Yury and Wellwood, Alexis},
+  journal={NeuroImage},
+  volume={209},
+  pages={116540},
+  year={2020},
+  publisher={Elsevier},
+  doi={10.1016/j.neuroimage.2019.116540}
 }
 
 % Neural oscillation and simultaneous interpretation citations
@@ -388,6 +737,57 @@
   year={2019}
 }
 
+@book{moser2013simultaneous,
+  title={Simultaneous interpretation: Cognitive potential and limitations},
+  author={Moser-Mercer, Barbara},
+  year={2013},
+  publisher={John Benjamins Publishing Company},
+  address={Amsterdam}
+}
+
+@article{friederici2011brain,
+  title={The brain basis of language processing: from structure to function},
+  author={Friederici, Angela D.},
+  journal={Physiological Reviews},
+  volume={91},
+  number={4},
+  pages={1357--1392},
+  year={2011},
+  publisher={American Physiological Society},
+  doi={10.1152/physrev.00006.2011}
+}
+
+@article{kuperberg2016comprehending,
+  title={What do we mean by prediction in language comprehension?},
+  author={Kuperberg, Gina R. and Jaeger, T. Florian},
+  journal={Language, Cognition and Neuroscience},
+  volume={31},
+  number={1},
+  pages={32--59},
+  year={2016},
+  publisher={Taylor \& Francis},
+  doi={10.1080/23273798.2015.1102299}
+}
+
+@article{deco2015rethinking,
+  title={Rethinking segregation and integration: contributions of whole-brain modelling},
+  author={Deco, Gustavo and Tononi, Giulio and Boly, Melanie and Kringelbach, Morten L.},
+  journal={Nature Reviews Neuroscience},
+  volume={16},
+  number={7},
+  pages={430--439},
+  year={2015},
+  publisher={Nature Publishing Group},
+  doi={10.1038/nrn3963}
+}
+
+@article{mathur2020tangled,
+  title={Tangled up in BLEU: Reevaluating the evaluation of automatic machine translation evaluation metrics},
+  author={Mathur, Nitika and Baldwin, Timothy and Cohn, Trevor},
+  journal={arXiv preprint arXiv:2006.06264},
+  year={2020}
+}
+
 % Missing citations added
 @article{clarke2008energy,
   title={The energy cost of computation in the human brain},
@@ -540,6 +940,16 @@
   journal   = {bioRxiv},
   year      = {2024},
   doi       = {10.1101/2024.05.03.592346}
+}
+
+@article{He2021fNIRS,
+  author    = {He, Yifan and Hu, Yuhui and Yang, Yuan and others},
+  title     = {Optical mapping of brain activity underlying directionality and its modulation by expertise in Mandarin/English interpreting},
+  journal   = {Frontiers in Human Neuroscience},
+  year      = {2021},
+  volume    = {15},
+  pages     = {649578},
+  doi       = {10.3389/fnhum.2021.649578}
 }
 
 @article{Boos2025AccentsEEG,
