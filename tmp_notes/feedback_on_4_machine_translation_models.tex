@@ -1,0 +1,97 @@
+
+
+以下のとおり 「出典」カラムをすべて “そのまま貼れる URL 形式” に差し替えました。
+（行番号は 4_machine_translation_models.tex のもの）
+
+行	現状のコメント	追加すべき引用キー	備考	出典 (URL)
+36	Wait-k Transformer の基礎論文	ma2019stacl	本文に \cite{ma2019stacl} を追加	https://arxiv.org/abs/1810.08398  ￼
+40	MMA / EMMA	ma2020monotonic, ma2023efficient	\cite{ma2020monotonic,ma2023efficient}	https://arxiv.org/abs/1909.12406  ￼ / https://arxiv.org/abs/2312.04515  ￼
+47	DiSeg	zhang2023diseg	\cite{zhang2023diseg}	https://arxiv.org/abs/2305.16093  ￼
+56	SeamlessM4T-v2 / SeamlessStreaming	seamless2023v2	\cite{seamless2023v2}	https://arxiv.org/abs/2308.11596  ￼
+60	Simul-LLM	agostinelli2024simulllm	\cite{agostinelli2024simulllm}	https://aclanthology.org/2024.acl-long.567/  ￼
+69	NAIST IWSLT 2024	ko2024naist	\cite{ko2024naist}	https://aclanthology.org/2024.iwslt-1.23/  ￼
+73	CMU IWSLT 2024	xu2024cmu	\cite{xu2024cmu}	https://arxiv.org/abs/2408.07452  ￼
+89	データセット（MuST-C / Simul-MuST-C / CVSS）	digangi2019mustc, makinae2024simulmustc, jia2022cvss	\cite{digangi2019mustc,makinae2024simulmustc,jia2022cvss}	https://aclanthology.org/N19-1202/  ￼ / https://aclanthology.org/2024.emnlp-main.1238/  ￼ / https://arxiv.org/abs/2201.03713  ￼
+93	IWSLT 同時翻訳トラック評価	iwslt2024track	\cite{iwslt2024track}	https://iwslt.org/2024/simultaneous  ￼
+100	SimulEval	ma2020simuleval	\cite{ma2020simuleval}	https://arxiv.org/abs/2007.16193  ￼
+141	ツールキット (Fairseq-SimulST, ESPnet-Simul)	wang2020fairseqs2t, yan2023espnet	\cite{wang2020fairseqs2t,yan2023espnet}	https://arxiv.org/abs/2010.05171  ￼ / https://arxiv.org/abs/2304.04596  ￼
+
+
+追加するBibTeXエントリ
+
+@article{ma2023efficient,
+  title     = {Efficient Monotonic Multihead Attention},
+  author    = {Ma, Xutai and Sun, Anna and Ouyang, Siqi and Inaguma, Hirofumi and Tomasello, Paden},
+  journal   = {arXiv preprint arXiv:2312.04515},
+  year      = {2023},
+  url       = {https://arxiv.org/abs/2312.04515}
+}
+
+@inproceedings{agostinelli2024simulllm,
+  title     = {Simul-{LLM}: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models},
+  author    = {Agostinelli, Victor and Wild, Max and Raffel, Matthew and Fuad, Kazi and Chen, Lizhong},
+  booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)},
+  year      = {2024},
+  url       = {https://aclanthology.org/2024.acl-long.567}
+}
+
+@inproceedings{digangi2019mustc,
+  title     = {{M}u{ST}-{C}: a Multilingual Speech Translation Corpus},
+  author    = {Di Gangi, Mattia A. and Cattoni, Roldano and Bentivogli, Luisa and Negri, Matteo and Turchi, Marco},
+  booktitle = {Proc.\ NAACL-HLT},
+  pages     = {2012--2017},
+  year      = {2019},
+  doi       = {10.18653/v1/N19-1202},
+  url       = {https://aclanthology.org/N19-1202}
+}
+
+@inproceedings{makinae2024simulmustc,
+  title     = {Simul-{M}u{ST}-{C}: Simultaneous Multilingual Speech Translation Corpus Using Large Language Model},
+  author    = {Makinae, Mana and Sakai, Yusuke and Kamigaito, Hidetaka and Watanabe, Taro},
+  booktitle = {Proc.\ EMNLP},
+  year      = {2024},
+  url       = {https://aclanthology.org/2024.emnlp-main.1238}
+}
+
+@inproceedings{jia2022cvss,
+  title     = {CVSS Corpus and Massively Multilingual Speech-to-Speech Translation},
+  author    = {Jia, Ye and Tadmor Ramanovich, Michelle and Wang, Quan and Zen, Heiga},
+  booktitle = {Proc.\ LREC},
+  pages     = {6691--6703},
+  year      = {2022},
+  url       = {https://aclanthology.org/2022.lrec-1.720}
+}
+
+@inproceedings{wang2020fairseqs2t,
+  title     = {fairseq S2T: Fast Speech-to-Text Modeling with fairseq},
+  author    = {Wang, Changhan and Tang, Yun and Ma, Xutai and Wu, Anne and others},
+  booktitle = {Proc.\ AACL Demos},
+  year      = {2020},
+  url       = {https://aclanthology.org/2020.aacl-demo.6}
+}
+
+@inproceedings{yan2023espnet,
+  title     = {ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit},
+  author    = {Yan, Brian and Shi, Jiatong and Tang, Yun and Inaguma, Hirofumi and others},
+  booktitle = {Proc.\ ACL System Demonstrations},
+  year      = {2023},
+  url       = {https://aclanthology.org/2023.acl-demo.38}
+}
+
+@misc{iwslt2024track,
+  title        = {IWSLT 2024 Simultaneous Translation Track},
+  howpublished = {\url{https://iwslt.org/2024/simultaneous}},
+  year         = {2024},
+  note         = {Accessed 2025-07-21}
+}
+
+⸻
+
+次の作業ステップ
+	1.	本文側
+上記の「追加すべき引用キー」を挿入して引用漏れを解消してください（例: \cite{ma2023efficient}）。
+	2.	cites.bib 追記
+BibTeX エントリを cites.bib に追加してください。
+既存キーと重複しないようご注意を。
+
+これで URL 付きの出典一覧 と BibTeX 情報 が揃います。
